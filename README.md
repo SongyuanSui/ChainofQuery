@@ -1,6 +1,8 @@
 # Chain of Query
 Code for paper [Chain-of-Query: Unleashing the Power of LLMs in SQL-Aided Table Understanding via Multi-Agent Collaboration](./ChainOfQuery_paper_preprint.pdf)
 
+<img src="./assets/overview.png" align="middle" width="95%">
+
 ## Environment
 
 ```shell
