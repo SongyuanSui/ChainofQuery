@@ -1,5 +1,5 @@
 # Chain of Query
-Code for paper [Chain-of-Query: Unleashing the Power of LLMs in SQL-Aided Table Understanding via Multi-Agent Collaboration](./ChainOfQuery_paper_preprint.pdf)
+Code for paper [Chain-of-Query: Unleashing the Power of LLMs in SQL-Aided Table Understanding via Multi-Agent Collaboration](https://arxiv.org/abs/2508.15809)
 
 <img src="./assets/overview.png" align="middle" width="95%">
 
@@ -40,15 +40,15 @@ pip install -r requirements.txt
 
 ## Cite
 
-Note: This is a preprint version hosted on GitHub. Once the paper is available on arXiv, please cite the arXiv version.
-
 ```bibtex
-@misc{sui2025coq,
-  title={Chain-of-Query: Unleashing the Power of LLMs in SQL-Aided Table Understanding via Multi-Agent Collaboration},
-  author={Sui, Songyuan and Liu, Hongyi and Liu, Serena and Li, Li and Choi, Soo-Hyun and Chen, Rui and Hu, Xia},
-  note = {Preprint. Available at GitHub},
-  year={2025},
-  howpublished = {\url{https://github.com/SongyuanSui/ChainofQuery/blob/main/ChainOfQuery_paper_preprint.pdf}}
+@misc{sui2025chainofqueryunleashingpowerllms,
+      title={Chain-of-Query: Unleashing the Power of LLMs in SQL-Aided Table Understanding via Multi-Agent Collaboration},
+      author={Songyuan Sui and Hongyi Liu and Serena Liu and Li Li and Soo-Hyun Choi and Rui Chen and Xia Hu},
+      year={2025},
+      eprint={2508.15809},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.15809},
 }
 ```
 
