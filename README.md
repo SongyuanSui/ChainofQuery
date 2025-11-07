@@ -1,5 +1,5 @@
 # Chain of Query
-Code for paper [Chain-of-Query: Unleashing the Power of LLMs in SQL-Aided Table Understanding via Multi-Agent Collaboration](https://arxiv.org/abs/2508.15809)
+[AACL 2025] This is the official code for the paper [Chain-of-Query: Unleashing the Power of LLMs in SQL-Aided Table Understanding via Multi-Agent Collaboration](https://arxiv.org/abs/2508.15809)
 
 <img src="./assets/overview.png" align="middle" width="95%">
 
